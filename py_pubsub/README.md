@@ -1,4 +1,4 @@
-# 🤖 ROS 2 Pub-Sub Example (Python)
+#  ROS 2 Pub-Sub Example (Python)
 
 This is a minimal ROS 2 package written in Python that demonstrates a basic **Publisher-Subscriber** model using rclpy
 
@@ -6,7 +6,7 @@ It publishes "Hello World" messages every second and listens to them on another 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 py_pubsub/
 ├── py_pubsub/
@@ -24,7 +24,7 @@ py_pubsub/
 
 ---
 
-## 📡 Nodes
+##  Nodes
 
 | Node Name           | Description                                 |
 |---------------------|---------------------------------------------|
